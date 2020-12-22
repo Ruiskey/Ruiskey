@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Ruisky from China. I'm trying to do something cool and record it just like spit bubbles!
+
+### Contact me
+* https://blog.csdn.net/Ruiskey
 <!--
 **Ruiskey/Ruiskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
